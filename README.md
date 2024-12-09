@@ -1,2 +1,2 @@
 # students_hub
-For students
+For students: It contains headlines, summaries, and article links only.
